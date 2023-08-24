@@ -28,7 +28,10 @@ The program shown is <a href="https://github.com/neovim/neovim">Neovim</a> with 
 It will return the fused file and a list with the colors it fused in order for you to reuse if needed.
 
 ## Roadmap
+- [ ] Control the amount of each file
 - [ ] Support for RRGGBBAA colors
 - [ ] Support for RGBA colors
-- [ ] GUI
+- [ ] Live preview
+- [ ] Changing color format (HEX, RGB, HSL, HSV, CMYK)
 - [ ] Proper install
+- [ ] GUI
