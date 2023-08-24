@@ -2,17 +2,17 @@
 🎨 ColorFuse
 </h1>
 
-<img align="center" src="https://github.com/Axenide/ColorFuse/assets/66109459/9ba887ff-551f-450d-9d0c-492c698cd4c1">
-
 <p align="center"><i>
 A little CLI program written in Python for fusing colors in files that follow the same structure.
 </i></p>
 
-<p align="center"><small>
+<img align="center" src="https://github.com/Axenide/ColorFuse/assets/66109459/9ba887ff-551f-450d-9d0c-492c698cd4c1">
+
+<p align="center"><sup>
 The example above shows Gruvbox (left) + Nord (right) resulting in Nordbox (heh...).
 <br>
 The program shown is <a href="https://github.com/neovim/neovim">Neovim</a> with <a href="https://github.com/Axenide/NvChad">my NvChad fork</a>.
-</small></p>
+</sup></p>
 
 #### Initial requirements
 - Python 3.x
