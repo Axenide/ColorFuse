@@ -35,3 +35,21 @@ It will return the fused file and a list with the colors it fused in order for y
 - [ ] Changing color format (HEX, RGB, HSL, HSV, CMYK)
 - [ ] Proper install
 - [ ] GUI
+
+<p align="center">
+<samp>
+  <i>Please consider giving me a tip. :)</i>
+  <br>
+  <sup>
+    <a href="https://cafecito.app/Axenide">☕ Cafecito</a> |
+    <a href="https://ko-fi.com/Axenide">❤️ Ko-Fi</a> |
+    <a href="https://paypal.me/Axenide">💸 PayPal</a>
+    <br>
+    <b>💵 USDT:</b> <i>TDub4eGEbXMqv4CFo65oNTaBYMJpbJyrtQ</i> (TRC20)
+    <br>
+    <b>💶 USDC:</b> <i>0x1959681e522dbaedd93f90b0ece0d627f96432ee</i> (ERC20)
+    <br>
+    <b>🪙 BTC:</b> <i>16BTDDEmE2D98YPePt6VAvsC4s9xrVLpk4</i>
+  </sup>
+</samp>
+</p>
